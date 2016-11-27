@@ -6,3 +6,4 @@ Module = digicert
 Version = 2+
 
 [Documentation]
+Description = Basic plugin for requests against the DigiCert v2 API
